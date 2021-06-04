@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iTools视频教材 on Marxmake User Manual</title>
+    <link>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/</link>
+    <description>Recent content in iTools视频教材 on Marxmake User Manual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CH</language>
+    <lastBuildDate>Sat, 22 May 2021 14:05:44 +0800</lastBuildDate><atom:link href="http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01.桌面式弓臂锯床的安装及使用</title>
+      <link>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/sawing-machine/</link>
+      <pubDate>Sat, 22 May 2021 15:45:43 +0800</pubDate>
+      
+      <guid>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/sawing-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>02.桌面式旋转车床的安装及使用</title>
+      <link>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/milling-machine/</link>
+      <pubDate>Sat, 22 May 2021 15:50:59 +0800</pubDate>
+      
+      <guid>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/milling-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>03.桌面式摇臂钻床的安装及使用</title>
+      <link>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/drilling-machine/</link>
+      <pubDate>Sat, 22 May 2021 15:51:45 +0800</pubDate>
+      
+      <guid>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/drilling-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04.桌面式光磨机的安装及使用</title>
+      <link>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/grinding-machine/</link>
+      <pubDate>Sat, 22 May 2021 15:53:16 +0800</pubDate>
+      
+      <guid>http://enterpaper.gitee.io/doc-marxmake-2/doc-itools/video-tutorial/grinding-machine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
