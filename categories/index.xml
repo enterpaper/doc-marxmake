@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marxmake User Manual</title>
-    <link>http://enterpaper.gitee.io/doc-marxmake-2/categories/</link>
+    <link>https://enterpaper.github.io/doc-marxmake/categories/</link>
     <description>Recent content in Categories on Marxmake User Manual</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CH</language><atom:link href="http://enterpaper.gitee.io/doc-marxmake-2/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CH</language><atom:link href="https://enterpaper.github.io/doc-marxmake/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
